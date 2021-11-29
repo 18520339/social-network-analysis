@@ -1,0 +1,1154 @@
+source,target,weight
+Sporting Goods,Women's Clothing,4
+Sporting Goods,Cleats,4
+Sporting Goods,Children's Clothing,4
+Sporting Goods,Fitness Accessories,4
+Sporting Goods,Hockey,4
+Sporting Goods,Tennis & Racquet,4
+Sporting Goods,Consumer Electronics,4
+Sporting Goods,Video Games,4
+Sporting Goods,Golf Apparel,4
+Sporting Goods,Hunting & Shooting,4
+Sporting Goods,Golf Balls,4
+Sporting Goods,Books,4
+Sporting Goods,Water Sports,4
+Sporting Goods,CDs,4
+Sporting Goods,Golf Shoes,4
+Sporting Goods,Indoor/Outdoor Games,4
+Sporting Goods,DVDs,4
+Sporting Goods,Trade-In,4
+Sporting Goods,Baby,4
+Sporting Goods,Toys,4
+Sporting Goods,Music,4
+Sporting Goods,Men's Footwear,4
+Sporting Goods,Accessories,4
+Sporting Goods,Cameras,3
+Sporting Goods,Men's Clothing,4
+Sporting Goods,Girls' Apparel,4
+Sporting Goods,Computers,4
+Sporting Goods,Women's Apparel,4
+Sporting Goods,Health and Beauty,4
+Sporting Goods,Lacrosse,4
+Sporting Goods,Boxing & MMA,4
+Sporting Goods,Baseball & Softball,4
+Sporting Goods,Camping & Hiking,4
+Sporting Goods,Cardio Equipment,4
+Sporting Goods,Garden,4
+Sporting Goods,Shop By Sport,4
+Sporting Goods,Golf Gloves,4
+Sporting Goods,Pet Supplies,4
+Sporting Goods,Crafts,4
+Sporting Goods,Electronics,4
+Sporting Goods,Fishing,4
+Cleats,Women's Clothing,4
+Cleats,As Seen on  TV!,6
+Cleats,Children's Clothing,7
+Cleats,Basketball,3
+Cleats,Fitness Accessories,22
+Cleats,Hockey,22
+Cleats,Tennis & Racquet,23
+Cleats,Consumer Electronics,7
+Cleats,Video Games,4
+Cleats,Men's Golf Clubs,6
+Cleats,Golf Bags & Carts,6
+Cleats,Golf Apparel,23
+Cleats,Hunting & Shooting,23
+Cleats,Soccer,6
+Cleats,Golf Balls,23
+Cleats,Water Sports,23
+Cleats,Books,7
+Cleats,CDs,7
+Cleats,Golf Shoes,22
+Cleats,Strength Training,6
+Cleats,Indoor/Outdoor Games,23
+Cleats,DVDs,7
+Cleats,Trade-In,23
+Cleats,Baby,7
+Cleats,Toys,4
+Cleats,Music,4
+Cleats,Accessories,23
+Cleats,Men's Footwear,23
+Cleats,Women's Golf Clubs,6
+Cleats,Cameras,6
+Cleats,Lacrosse,23
+Cleats,Girls' Apparel,23
+Cleats,Boxing & MMA,23
+Cleats,Women's Apparel,23
+Cleats,Men's Clothing,4
+Cleats,Health and Beauty,4
+Cleats,Computers,7
+Cleats,Baseball & Softball,22
+Cleats,Camping & Hiking,23
+Cleats,Cardio Equipment,23
+Cleats,Garden,4
+Cleats,Shop By Sport,23
+Cleats,Golf Gloves,23
+Cleats,Pet Supplies,4
+Cleats,Kids' Golf Clubs,6
+Cleats,Crafts,7
+Cleats,Electronics,23
+Cleats,Fishing,23
+Shop By Sport,Women's Clothing,4
+Shop By Sport,As Seen on  TV!,6
+Shop By Sport,Children's Clothing,7
+Shop By Sport,Basketball,3
+Shop By Sport,Fitness Accessories,22
+Shop By Sport,Hockey,22
+Shop By Sport,Tennis & Racquet,23
+Shop By Sport,Consumer Electronics,7
+Shop By Sport,Video Games,4
+Shop By Sport,Men's Golf Clubs,6
+Shop By Sport,Golf Bags & Carts,6
+Shop By Sport,Golf Apparel,23
+Shop By Sport,Hunting & Shooting,23
+Shop By Sport,Soccer,6
+Shop By Sport,Golf Balls,23
+Shop By Sport,Water Sports,23
+Shop By Sport,Books,7
+Shop By Sport,CDs,7
+Shop By Sport,Golf Shoes,22
+Shop By Sport,Strength Training,6
+Shop By Sport,Indoor/Outdoor Games,23
+Shop By Sport,DVDs,7
+Shop By Sport,Trade-In,23
+Shop By Sport,Baby,7
+Shop By Sport,Toys,4
+Shop By Sport,Music,4
+Shop By Sport,Accessories,23
+Shop By Sport,Men's Footwear,23
+Shop By Sport,Women's Golf Clubs,6
+Shop By Sport,Cameras,6
+Shop By Sport,Lacrosse,23
+Shop By Sport,Girls' Apparel,23
+Shop By Sport,Boxing & MMA,23
+Shop By Sport,Women's Apparel,23
+Shop By Sport,Men's Clothing,4
+Shop By Sport,Health and Beauty,4
+Shop By Sport,Computers,7
+Shop By Sport,Baseball & Softball,22
+Shop By Sport,Camping & Hiking,23
+Shop By Sport,Cardio Equipment,23
+Shop By Sport,Garden,4
+Shop By Sport,Golf Gloves,23
+Shop By Sport,Pet Supplies,4
+Shop By Sport,Kids' Golf Clubs,6
+Shop By Sport,Crafts,7
+Shop By Sport,Electronics,23
+Shop By Sport,Fishing,23
+Women's Apparel,Women's Clothing,4
+Women's Apparel,As Seen on  TV!,6
+Women's Apparel,Children's Clothing,7
+Women's Apparel,Basketball,3
+Women's Apparel,Fitness Accessories,22
+Women's Apparel,Hockey,22
+Women's Apparel,Tennis & Racquet,23
+Women's Apparel,Consumer Electronics,7
+Women's Apparel,Video Games,4
+Women's Apparel,Men's Golf Clubs,6
+Women's Apparel,Golf Bags & Carts,6
+Women's Apparel,Golf Apparel,23
+Women's Apparel,Hunting & Shooting,23
+Women's Apparel,Soccer,6
+Women's Apparel,Golf Balls,23
+Women's Apparel,Water Sports,23
+Women's Apparel,Books,7
+Women's Apparel,CDs,7
+Women's Apparel,Golf Shoes,22
+Women's Apparel,Strength Training,6
+Women's Apparel,Indoor/Outdoor Games,23
+Women's Apparel,DVDs,7
+Women's Apparel,Trade-In,23
+Women's Apparel,Baby,7
+Women's Apparel,Toys,4
+Women's Apparel,Music,4
+Women's Apparel,Accessories,23
+Women's Apparel,Men's Footwear,23
+Women's Apparel,Cameras,6
+Women's Apparel,Women's Golf Clubs,6
+Women's Apparel,Lacrosse,23
+Women's Apparel,Girls' Apparel,23
+Women's Apparel,Boxing & MMA,23
+Women's Apparel,Men's Clothing,4
+Women's Apparel,Health and Beauty,4
+Women's Apparel,Computers,7
+Women's Apparel,Baseball & Softball,22
+Women's Apparel,Camping & Hiking,23
+Women's Apparel,Cardio Equipment,23
+Women's Apparel,Garden,4
+Women's Apparel,Golf Gloves,23
+Women's Apparel,Pet Supplies,4
+Women's Apparel,Kids' Golf Clubs,6
+Women's Apparel,Crafts,7
+Women's Apparel,Electronics,23
+Women's Apparel,Fishing,23
+Electronics,Women's Clothing,4
+Electronics,As Seen on  TV!,6
+Electronics,Children's Clothing,7
+Electronics,Basketball,3
+Electronics,Fitness Accessories,22
+Electronics,Hockey,22
+Electronics,Tennis & Racquet,23
+Electronics,Consumer Electronics,7
+Electronics,Video Games,4
+Electronics,Men's Golf Clubs,6
+Electronics,Golf Bags & Carts,6
+Electronics,Golf Apparel,23
+Electronics,Hunting & Shooting,23
+Electronics,Soccer,6
+Electronics,Golf Balls,23
+Electronics,Water Sports,23
+Electronics,Books,7
+Electronics,CDs,7
+Electronics,Golf Shoes,22
+Electronics,Strength Training,6
+Electronics,Indoor/Outdoor Games,23
+Electronics,DVDs,7
+Electronics,Trade-In,23
+Electronics,Baby,7
+Electronics,Toys,4
+Electronics,Music,4
+Electronics,Accessories,23
+Electronics,Men's Footwear,23
+Electronics,Women's Golf Clubs,6
+Electronics,Cameras,6
+Electronics,Lacrosse,23
+Electronics,Girls' Apparel,23
+Electronics,Boxing & MMA,23
+Electronics,Men's Clothing,4
+Electronics,Health and Beauty,4
+Electronics,Computers,7
+Electronics,Baseball & Softball,22
+Electronics,Camping & Hiking,23
+Electronics,Cardio Equipment,23
+Electronics,Garden,4
+Electronics,Golf Gloves,23
+Electronics,Pet Supplies,4
+Electronics,Kids' Golf Clubs,6
+Electronics,Crafts,7
+Electronics,Fishing,23
+Boxing & MMA,Women's Clothing,4
+Boxing & MMA,As Seen on  TV!,6
+Boxing & MMA,Children's Clothing,7
+Boxing & MMA,Basketball,3
+Boxing & MMA,Fitness Accessories,22
+Boxing & MMA,Hockey,22
+Boxing & MMA,Tennis & Racquet,23
+Boxing & MMA,Consumer Electronics,7
+Boxing & MMA,Video Games,4
+Boxing & MMA,Men's Golf Clubs,6
+Boxing & MMA,Golf Bags & Carts,6
+Boxing & MMA,Golf Apparel,23
+Boxing & MMA,Hunting & Shooting,23
+Boxing & MMA,Soccer,6
+Boxing & MMA,Golf Balls,23
+Boxing & MMA,Water Sports,23
+Boxing & MMA,Books,7
+Boxing & MMA,CDs,7
+Boxing & MMA,Golf Shoes,22
+Boxing & MMA,Strength Training,6
+Boxing & MMA,Indoor/Outdoor Games,23
+Boxing & MMA,DVDs,7
+Boxing & MMA,Trade-In,23
+Boxing & MMA,Baby,7
+Boxing & MMA,Toys,4
+Boxing & MMA,Music,4
+Boxing & MMA,Accessories,23
+Boxing & MMA,Men's Footwear,23
+Boxing & MMA,Cameras,6
+Boxing & MMA,Women's Golf Clubs,6
+Boxing & MMA,Lacrosse,23
+Boxing & MMA,Girls' Apparel,23
+Boxing & MMA,Men's Clothing,4
+Boxing & MMA,Health and Beauty,4
+Boxing & MMA,Computers,7
+Boxing & MMA,Baseball & Softball,22
+Boxing & MMA,Camping & Hiking,23
+Boxing & MMA,Cardio Equipment,23
+Boxing & MMA,Garden,4
+Boxing & MMA,Golf Gloves,23
+Boxing & MMA,Pet Supplies,4
+Boxing & MMA,Kids' Golf Clubs,6
+Boxing & MMA,Crafts,7
+Boxing & MMA,Fishing,23
+Cardio Equipment,Women's Clothing,4
+Cardio Equipment,As Seen on  TV!,6
+Cardio Equipment,Children's Clothing,7
+Cardio Equipment,Basketball,3
+Cardio Equipment,Fitness Accessories,22
+Cardio Equipment,Hockey,22
+Cardio Equipment,Tennis & Racquet,23
+Cardio Equipment,Consumer Electronics,7
+Cardio Equipment,Video Games,4
+Cardio Equipment,Men's Golf Clubs,6
+Cardio Equipment,Golf Bags & Carts,6
+Cardio Equipment,Golf Apparel,23
+Cardio Equipment,Hunting & Shooting,23
+Cardio Equipment,Soccer,6
+Cardio Equipment,Golf Balls,23
+Cardio Equipment,Water Sports,23
+Cardio Equipment,Books,7
+Cardio Equipment,CDs,7
+Cardio Equipment,Golf Shoes,22
+Cardio Equipment,Strength Training,6
+Cardio Equipment,Indoor/Outdoor Games,23
+Cardio Equipment,DVDs,7
+Cardio Equipment,Trade-In,23
+Cardio Equipment,Baby,7
+Cardio Equipment,Toys,4
+Cardio Equipment,Music,4
+Cardio Equipment,Accessories,23
+Cardio Equipment,Men's Footwear,23
+Cardio Equipment,Women's Golf Clubs,6
+Cardio Equipment,Cameras,6
+Cardio Equipment,Lacrosse,23
+Cardio Equipment,Girls' Apparel,23
+Cardio Equipment,Men's Clothing,4
+Cardio Equipment,Health and Beauty,4
+Cardio Equipment,Computers,7
+Cardio Equipment,Baseball & Softball,22
+Cardio Equipment,Camping & Hiking,23
+Cardio Equipment,Garden,4
+Cardio Equipment,Golf Gloves,23
+Cardio Equipment,Pet Supplies,4
+Cardio Equipment,Kids' Golf Clubs,6
+Cardio Equipment,Crafts,7
+Cardio Equipment,Fishing,23
+Trade-In,Women's Clothing,4
+Trade-In,As Seen on  TV!,6
+Trade-In,Children's Clothing,7
+Trade-In,Basketball,3
+Trade-In,Fitness Accessories,22
+Trade-In,Hockey,22
+Trade-In,Tennis & Racquet,23
+Trade-In,Consumer Electronics,7
+Trade-In,Video Games,4
+Trade-In,Men's Golf Clubs,6
+Trade-In,Golf Bags & Carts,6
+Trade-In,Golf Apparel,23
+Trade-In,Hunting & Shooting,23
+Trade-In,Soccer,6
+Trade-In,Golf Balls,23
+Trade-In,Water Sports,23
+Trade-In,Books,7
+Trade-In,CDs,7
+Trade-In,Golf Shoes,22
+Trade-In,Strength Training,6
+Trade-In,Indoor/Outdoor Games,23
+Trade-In,DVDs,7
+Trade-In,Baby,7
+Trade-In,Toys,4
+Trade-In,Music,4
+Trade-In,Accessories,23
+Trade-In,Men's Footwear,23
+Trade-In,Cameras,6
+Trade-In,Women's Golf Clubs,6
+Trade-In,Lacrosse,23
+Trade-In,Girls' Apparel,23
+Trade-In,Men's Clothing,4
+Trade-In,Health and Beauty,4
+Trade-In,Computers,7
+Trade-In,Baseball & Softball,22
+Trade-In,Camping & Hiking,23
+Trade-In,Garden,4
+Trade-In,Golf Gloves,23
+Trade-In,Pet Supplies,4
+Trade-In,Kids' Golf Clubs,6
+Trade-In,Crafts,7
+Trade-In,Fishing,23
+Kids' Golf Clubs,As Seen on  TV!,6
+Kids' Golf Clubs,Children's Clothing,3
+Kids' Golf Clubs,Basketball,3
+Kids' Golf Clubs,Fitness Accessories,6
+Kids' Golf Clubs,Hockey,6
+Kids' Golf Clubs,Tennis & Racquet,6
+Kids' Golf Clubs,Consumer Electronics,3
+Kids' Golf Clubs,Men's Golf Clubs,6
+Kids' Golf Clubs,Golf Bags & Carts,6
+Kids' Golf Clubs,Golf Apparel,6
+Kids' Golf Clubs,Hunting & Shooting,6
+Kids' Golf Clubs,Soccer,6
+Kids' Golf Clubs,Golf Balls,6
+Kids' Golf Clubs,Books,3
+Kids' Golf Clubs,Water Sports,6
+Kids' Golf Clubs,CDs,3
+Kids' Golf Clubs,Strength Training,6
+Kids' Golf Clubs,Golf Shoes,6
+Kids' Golf Clubs,Indoor/Outdoor Games,6
+Kids' Golf Clubs,DVDs,3
+Kids' Golf Clubs,Baby,3
+Kids' Golf Clubs,Men's Footwear,6
+Kids' Golf Clubs,Accessories,6
+Kids' Golf Clubs,Cameras,3
+Kids' Golf Clubs,Women's Golf Clubs,6
+Kids' Golf Clubs,Lacrosse,6
+Kids' Golf Clubs,Girls' Apparel,6
+Kids' Golf Clubs,Computers,3
+Kids' Golf Clubs,Baseball & Softball,6
+Kids' Golf Clubs,Camping & Hiking,6
+Kids' Golf Clubs,Golf Gloves,6
+Kids' Golf Clubs,Crafts,3
+Kids' Golf Clubs,Fishing,6
+Hunting & Shooting,Women's Clothing,4
+Hunting & Shooting,As Seen on  TV!,6
+Hunting & Shooting,Children's Clothing,7
+Hunting & Shooting,Basketball,3
+Hunting & Shooting,Fitness Accessories,22
+Hunting & Shooting,Hockey,22
+Hunting & Shooting,Tennis & Racquet,23
+Hunting & Shooting,Consumer Electronics,7
+Hunting & Shooting,Video Games,4
+Hunting & Shooting,Men's Golf Clubs,6
+Hunting & Shooting,Golf Bags & Carts,6
+Hunting & Shooting,Golf Apparel,23
+Hunting & Shooting,Soccer,6
+Hunting & Shooting,Golf Balls,23
+Hunting & Shooting,Water Sports,23
+Hunting & Shooting,Books,7
+Hunting & Shooting,CDs,7
+Hunting & Shooting,Golf Shoes,22
+Hunting & Shooting,Strength Training,6
+Hunting & Shooting,Indoor/Outdoor Games,23
+Hunting & Shooting,DVDs,7
+Hunting & Shooting,Baby,7
+Hunting & Shooting,Toys,4
+Hunting & Shooting,Music,4
+Hunting & Shooting,Accessories,23
+Hunting & Shooting,Men's Footwear,23
+Hunting & Shooting,Cameras,6
+Hunting & Shooting,Women's Golf Clubs,6
+Hunting & Shooting,Lacrosse,23
+Hunting & Shooting,Girls' Apparel,23
+Hunting & Shooting,Men's Clothing,4
+Hunting & Shooting,Health and Beauty,4
+Hunting & Shooting,Computers,7
+Hunting & Shooting,Baseball & Softball,22
+Hunting & Shooting,Camping & Hiking,23
+Hunting & Shooting,Garden,4
+Hunting & Shooting,Golf Gloves,23
+Hunting & Shooting,Pet Supplies,4
+Hunting & Shooting,Crafts,7
+Hunting & Shooting,Fishing,23
+Baseball & Softball,Women's Clothing,4
+Baseball & Softball,As Seen on  TV!,6
+Baseball & Softball,Children's Clothing,7
+Baseball & Softball,Basketball,3
+Baseball & Softball,Fitness Accessories,22
+Baseball & Softball,Hockey,22
+Baseball & Softball,Tennis & Racquet,22
+Baseball & Softball,Consumer Electronics,7
+Baseball & Softball,Video Games,4
+Baseball & Softball,Men's Golf Clubs,6
+Baseball & Softball,Golf Bags & Carts,6
+Baseball & Softball,Golf Apparel,22
+Baseball & Softball,Soccer,6
+Baseball & Softball,Golf Balls,22
+Baseball & Softball,Water Sports,22
+Baseball & Softball,Books,7
+Baseball & Softball,CDs,7
+Baseball & Softball,Golf Shoes,22
+Baseball & Softball,Strength Training,6
+Baseball & Softball,Indoor/Outdoor Games,22
+Baseball & Softball,DVDs,7
+Baseball & Softball,Baby,7
+Baseball & Softball,Toys,4
+Baseball & Softball,Music,4
+Baseball & Softball,Accessories,22
+Baseball & Softball,Men's Footwear,22
+Baseball & Softball,Cameras,6
+Baseball & Softball,Women's Golf Clubs,6
+Baseball & Softball,Lacrosse,22
+Baseball & Softball,Girls' Apparel,22
+Baseball & Softball,Men's Clothing,4
+Baseball & Softball,Health and Beauty,4
+Baseball & Softball,Computers,7
+Baseball & Softball,Camping & Hiking,22
+Baseball & Softball,Garden,4
+Baseball & Softball,Golf Gloves,22
+Baseball & Softball,Pet Supplies,4
+Baseball & Softball,Crafts,7
+Baseball & Softball,Fishing,22
+Men's Footwear,Women's Clothing,4
+Men's Footwear,As Seen on  TV!,6
+Men's Footwear,Children's Clothing,7
+Men's Footwear,Basketball,3
+Men's Footwear,Fitness Accessories,22
+Men's Footwear,Hockey,22
+Men's Footwear,Tennis & Racquet,23
+Men's Footwear,Consumer Electronics,7
+Men's Footwear,Video Games,4
+Men's Footwear,Men's Golf Clubs,6
+Men's Footwear,Golf Bags & Carts,6
+Men's Footwear,Golf Apparel,23
+Men's Footwear,Soccer,6
+Men's Footwear,Golf Balls,23
+Men's Footwear,Water Sports,23
+Men's Footwear,Books,7
+Men's Footwear,CDs,7
+Men's Footwear,Golf Shoes,22
+Men's Footwear,Strength Training,6
+Men's Footwear,Indoor/Outdoor Games,23
+Men's Footwear,DVDs,7
+Men's Footwear,Baby,7
+Men's Footwear,Toys,4
+Men's Footwear,Music,4
+Men's Footwear,Accessories,23
+Men's Footwear,Cameras,6
+Men's Footwear,Women's Golf Clubs,6
+Men's Footwear,Lacrosse,23
+Men's Footwear,Girls' Apparel,23
+Men's Footwear,Men's Clothing,4
+Men's Footwear,Health and Beauty,4
+Men's Footwear,Computers,7
+Men's Footwear,Camping & Hiking,23
+Men's Footwear,Garden,4
+Men's Footwear,Golf Gloves,23
+Men's Footwear,Pet Supplies,4
+Men's Footwear,Crafts,7
+Men's Footwear,Fishing,23
+Camping & Hiking,Women's Clothing,4
+Camping & Hiking,As Seen on  TV!,6
+Camping & Hiking,Children's Clothing,7
+Camping & Hiking,Basketball,3
+Camping & Hiking,Fitness Accessories,22
+Camping & Hiking,Hockey,22
+Camping & Hiking,Tennis & Racquet,23
+Camping & Hiking,Consumer Electronics,7
+Camping & Hiking,Video Games,4
+Camping & Hiking,Men's Golf Clubs,6
+Camping & Hiking,Golf Bags & Carts,6
+Camping & Hiking,Golf Apparel,23
+Camping & Hiking,Soccer,6
+Camping & Hiking,Golf Balls,23
+Camping & Hiking,Water Sports,23
+Camping & Hiking,Books,7
+Camping & Hiking,CDs,7
+Camping & Hiking,Golf Shoes,22
+Camping & Hiking,Strength Training,6
+Camping & Hiking,Indoor/Outdoor Games,23
+Camping & Hiking,DVDs,7
+Camping & Hiking,Baby,7
+Camping & Hiking,Toys,4
+Camping & Hiking,Music,4
+Camping & Hiking,Accessories,23
+Camping & Hiking,Women's Golf Clubs,6
+Camping & Hiking,Cameras,6
+Camping & Hiking,Lacrosse,23
+Camping & Hiking,Girls' Apparel,23
+Camping & Hiking,Men's Clothing,4
+Camping & Hiking,Health and Beauty,4
+Camping & Hiking,Computers,7
+Camping & Hiking,Garden,4
+Camping & Hiking,Golf Gloves,23
+Camping & Hiking,Pet Supplies,4
+Camping & Hiking,Crafts,7
+Camping & Hiking,Fishing,23
+Consumer Electronics,Women's Clothing,4
+Consumer Electronics,As Seen on  TV!,3
+Consumer Electronics,Children's Clothing,7
+Consumer Electronics,Basketball,3
+Consumer Electronics,Fitness Accessories,7
+Consumer Electronics,Hockey,7
+Consumer Electronics,Tennis & Racquet,7
+Consumer Electronics,Video Games,4
+Consumer Electronics,Men's Golf Clubs,3
+Consumer Electronics,Golf Bags & Carts,3
+Consumer Electronics,Golf Apparel,7
+Consumer Electronics,Soccer,3
+Consumer Electronics,Golf Balls,7
+Consumer Electronics,Books,7
+Consumer Electronics,Water Sports,7
+Consumer Electronics,CDs,7
+Consumer Electronics,Strength Training,3
+Consumer Electronics,Golf Shoes,7
+Consumer Electronics,Indoor/Outdoor Games,7
+Consumer Electronics,DVDs,7
+Consumer Electronics,Baby,7
+Consumer Electronics,Toys,4
+Consumer Electronics,Music,4
+Consumer Electronics,Accessories,7
+Consumer Electronics,Cameras,6
+Consumer Electronics,Women's Golf Clubs,3
+Consumer Electronics,Lacrosse,7
+Consumer Electronics,Girls' Apparel,7
+Consumer Electronics,Computers,7
+Consumer Electronics,Health and Beauty,4
+Consumer Electronics,Men's Clothing,4
+Consumer Electronics,Garden,4
+Consumer Electronics,Golf Gloves,7
+Consumer Electronics,Pet Supplies,4
+Consumer Electronics,Crafts,7
+Consumer Electronics,Fishing,7
+Cameras,Women's Clothing,3
+Cameras,As Seen on  TV!,3
+Cameras,Children's Clothing,6
+Cameras,Basketball,3
+Cameras,Fitness Accessories,6
+Cameras,Hockey,6
+Cameras,Tennis & Racquet,6
+Cameras,Video Games,3
+Cameras,Men's Golf Clubs,3
+Cameras,Golf Bags & Carts,3
+Cameras,Golf Apparel,6
+Cameras,Soccer,3
+Cameras,Golf Balls,6
+Cameras,Books,6
+Cameras,Water Sports,6
+Cameras,CDs,6
+Cameras,Strength Training,3
+Cameras,Golf Shoes,6
+Cameras,Indoor/Outdoor Games,6
+Cameras,DVDs,6
+Cameras,Baby,6
+Cameras,Toys,3
+Cameras,Music,3
+Cameras,Accessories,6
+Cameras,Women's Golf Clubs,3
+Cameras,Lacrosse,6
+Cameras,Girls' Apparel,6
+Cameras,Computers,6
+Cameras,Health and Beauty,3
+Cameras,Men's Clothing,3
+Cameras,Garden,3
+Cameras,Golf Gloves,6
+Cameras,Pet Supplies,3
+Cameras,Crafts,6
+Cameras,Fishing,6
+Computers,Women's Clothing,4
+Computers,As Seen on  TV!,3
+Computers,Children's Clothing,7
+Computers,Basketball,3
+Computers,Fitness Accessories,7
+Computers,Hockey,7
+Computers,Tennis & Racquet,7
+Computers,Video Games,4
+Computers,Men's Golf Clubs,3
+Computers,Golf Bags & Carts,3
+Computers,Golf Apparel,7
+Computers,Soccer,3
+Computers,Golf Balls,7
+Computers,Books,7
+Computers,Water Sports,7
+Computers,CDs,7
+Computers,Strength Training,3
+Computers,Golf Shoes,7
+Computers,Indoor/Outdoor Games,7
+Computers,DVDs,7
+Computers,Baby,7
+Computers,Toys,4
+Computers,Music,4
+Computers,Accessories,7
+Computers,Women's Golf Clubs,3
+Computers,Lacrosse,7
+Computers,Girls' Apparel,7
+Computers,Health and Beauty,4
+Computers,Men's Clothing,4
+Computers,Garden,4
+Computers,Golf Gloves,7
+Computers,Pet Supplies,4
+Computers,Crafts,7
+Computers,Fishing,7
+Basketball,As Seen on  TV!,3
+Basketball,Children's Clothing,3
+Basketball,Fitness Accessories,3
+Basketball,Hockey,3
+Basketball,Tennis & Racquet,3
+Basketball,Men's Golf Clubs,3
+Basketball,Golf Bags & Carts,3
+Basketball,Golf Apparel,3
+Basketball,Soccer,3
+Basketball,Golf Balls,3
+Basketball,Books,3
+Basketball,Water Sports,3
+Basketball,CDs,3
+Basketball,Strength Training,3
+Basketball,Golf Shoes,3
+Basketball,Indoor/Outdoor Games,3
+Basketball,DVDs,3
+Basketball,Baby,3
+Basketball,Accessories,3
+Basketball,Women's Golf Clubs,3
+Basketball,Lacrosse,3
+Basketball,Girls' Apparel,3
+Basketball,Golf Gloves,3
+Basketball,Crafts,3
+Basketball,Fishing,3
+Soccer,As Seen on  TV!,6
+Soccer,Children's Clothing,3
+Soccer,Fitness Accessories,6
+Soccer,Hockey,6
+Soccer,Tennis & Racquet,6
+Soccer,Men's Golf Clubs,6
+Soccer,Golf Bags & Carts,6
+Soccer,Golf Apparel,6
+Soccer,Golf Balls,6
+Soccer,Books,3
+Soccer,Water Sports,6
+Soccer,CDs,3
+Soccer,Strength Training,6
+Soccer,Golf Shoes,6
+Soccer,Indoor/Outdoor Games,6
+Soccer,DVDs,3
+Soccer,Baby,3
+Soccer,Accessories,6
+Soccer,Women's Golf Clubs,6
+Soccer,Lacrosse,6
+Soccer,Girls' Apparel,6
+Soccer,Golf Gloves,6
+Soccer,Crafts,3
+Soccer,Fishing,6
+Girls' Apparel,Women's Clothing,4
+Girls' Apparel,As Seen on  TV!,6
+Girls' Apparel,Children's Clothing,7
+Girls' Apparel,Fitness Accessories,22
+Girls' Apparel,Hockey,22
+Girls' Apparel,Tennis & Racquet,23
+Girls' Apparel,Video Games,4
+Girls' Apparel,Men's Golf Clubs,6
+Girls' Apparel,Golf Bags & Carts,6
+Girls' Apparel,Golf Apparel,23
+Girls' Apparel,Golf Balls,23
+Girls' Apparel,Water Sports,23
+Girls' Apparel,Books,7
+Girls' Apparel,CDs,7
+Girls' Apparel,Golf Shoes,22
+Girls' Apparel,Strength Training,6
+Girls' Apparel,Indoor/Outdoor Games,23
+Girls' Apparel,DVDs,7
+Girls' Apparel,Baby,7
+Girls' Apparel,Toys,4
+Girls' Apparel,Music,4
+Girls' Apparel,Accessories,23
+Girls' Apparel,Women's Golf Clubs,6
+Girls' Apparel,Lacrosse,23
+Girls' Apparel,Men's Clothing,4
+Girls' Apparel,Health and Beauty,4
+Girls' Apparel,Garden,4
+Girls' Apparel,Golf Gloves,23
+Girls' Apparel,Pet Supplies,4
+Girls' Apparel,Crafts,7
+Girls' Apparel,Fishing,23
+Accessories,Women's Clothing,4
+Accessories,As Seen on  TV!,6
+Accessories,Children's Clothing,7
+Accessories,Fitness Accessories,22
+Accessories,Hockey,22
+Accessories,Tennis & Racquet,23
+Accessories,Video Games,4
+Accessories,Men's Golf Clubs,6
+Accessories,Golf Bags & Carts,6
+Accessories,Golf Apparel,23
+Accessories,Golf Balls,23
+Accessories,Water Sports,23
+Accessories,Books,7
+Accessories,CDs,7
+Accessories,Golf Shoes,22
+Accessories,Strength Training,6
+Accessories,Indoor/Outdoor Games,23
+Accessories,DVDs,7
+Accessories,Baby,7
+Accessories,Toys,4
+Accessories,Music,4
+Accessories,Women's Golf Clubs,6
+Accessories,Lacrosse,23
+Accessories,Men's Clothing,4
+Accessories,Health and Beauty,4
+Accessories,Garden,4
+Accessories,Golf Gloves,23
+Accessories,Pet Supplies,4
+Accessories,Crafts,7
+Accessories,Fishing,23
+Women's Clothing,Children's Clothing,4
+Women's Clothing,Fitness Accessories,4
+Women's Clothing,Hockey,4
+Women's Clothing,Tennis & Racquet,4
+Women's Clothing,Video Games,4
+Women's Clothing,Golf Apparel,4
+Women's Clothing,Golf Balls,4
+Women's Clothing,Books,4
+Women's Clothing,Water Sports,4
+Women's Clothing,CDs,4
+Women's Clothing,Golf Shoes,4
+Women's Clothing,Indoor/Outdoor Games,4
+Women's Clothing,DVDs,4
+Women's Clothing,Baby,4
+Women's Clothing,Toys,4
+Women's Clothing,Music,4
+Women's Clothing,Men's Clothing,4
+Women's Clothing,Health and Beauty,4
+Women's Clothing,Lacrosse,4
+Women's Clothing,Garden,4
+Women's Clothing,Golf Gloves,4
+Women's Clothing,Pet Supplies,4
+Women's Clothing,Crafts,4
+Women's Clothing,Fishing,4
+Crafts,As Seen on  TV!,3
+Crafts,Children's Clothing,7
+Crafts,Fitness Accessories,7
+Crafts,Hockey,7
+Crafts,Tennis & Racquet,7
+Crafts,Video Games,4
+Crafts,Men's Golf Clubs,3
+Crafts,Golf Bags & Carts,3
+Crafts,Golf Apparel,7
+Crafts,Golf Balls,7
+Crafts,Books,7
+Crafts,Water Sports,7
+Crafts,CDs,7
+Crafts,Strength Training,3
+Crafts,Golf Shoes,7
+Crafts,Indoor/Outdoor Games,7
+Crafts,DVDs,7
+Crafts,Baby,7
+Crafts,Toys,4
+Crafts,Music,4
+Crafts,Women's Golf Clubs,3
+Crafts,Lacrosse,7
+Crafts,Health and Beauty,4
+Crafts,Men's Clothing,4
+Crafts,Garden,4
+Crafts,Golf Gloves,7
+Crafts,Pet Supplies,4
+Crafts,Fishing,7
+Men's Clothing,Children's Clothing,4
+Men's Clothing,Fitness Accessories,4
+Men's Clothing,Hockey,4
+Men's Clothing,Tennis & Racquet,4
+Men's Clothing,Video Games,4
+Men's Clothing,Golf Apparel,4
+Men's Clothing,Golf Balls,4
+Men's Clothing,Books,4
+Men's Clothing,Water Sports,4
+Men's Clothing,CDs,4
+Men's Clothing,Golf Shoes,4
+Men's Clothing,Indoor/Outdoor Games,4
+Men's Clothing,DVDs,4
+Men's Clothing,Baby,4
+Men's Clothing,Toys,4
+Men's Clothing,Music,4
+Men's Clothing,Health and Beauty,4
+Men's Clothing,Lacrosse,4
+Men's Clothing,Garden,4
+Men's Clothing,Golf Gloves,4
+Men's Clothing,Pet Supplies,4
+Men's Clothing,Fishing,4
+Tennis & Racquet,As Seen on  TV!,6
+Tennis & Racquet,Children's Clothing,7
+Tennis & Racquet,Fitness Accessories,22
+Tennis & Racquet,Hockey,22
+Tennis & Racquet,Video Games,4
+Tennis & Racquet,Men's Golf Clubs,6
+Tennis & Racquet,Golf Bags & Carts,6
+Tennis & Racquet,Golf Apparel,23
+Tennis & Racquet,Golf Balls,23
+Tennis & Racquet,Water Sports,23
+Tennis & Racquet,Books,7
+Tennis & Racquet,CDs,7
+Tennis & Racquet,Golf Shoes,22
+Tennis & Racquet,Strength Training,6
+Tennis & Racquet,Indoor/Outdoor Games,23
+Tennis & Racquet,DVDs,7
+Tennis & Racquet,Baby,7
+Tennis & Racquet,Toys,4
+Tennis & Racquet,Music,4
+Tennis & Racquet,Women's Golf Clubs,6
+Tennis & Racquet,Lacrosse,23
+Tennis & Racquet,Health and Beauty,4
+Tennis & Racquet,Garden,4
+Tennis & Racquet,Golf Gloves,23
+Tennis & Racquet,Pet Supplies,4
+Tennis & Racquet,Fishing,23
+Fitness Accessories,As Seen on  TV!,6
+Fitness Accessories,Children's Clothing,7
+Fitness Accessories,Hockey,22
+Fitness Accessories,Video Games,4
+Fitness Accessories,Men's Golf Clubs,6
+Fitness Accessories,Golf Bags & Carts,6
+Fitness Accessories,Golf Apparel,22
+Fitness Accessories,Golf Balls,22
+Fitness Accessories,Water Sports,22
+Fitness Accessories,Books,7
+Fitness Accessories,CDs,7
+Fitness Accessories,Golf Shoes,22
+Fitness Accessories,Strength Training,6
+Fitness Accessories,Indoor/Outdoor Games,22
+Fitness Accessories,DVDs,7
+Fitness Accessories,Baby,7
+Fitness Accessories,Toys,4
+Fitness Accessories,Music,4
+Fitness Accessories,Women's Golf Clubs,6
+Fitness Accessories,Lacrosse,22
+Fitness Accessories,Health and Beauty,4
+Fitness Accessories,Garden,4
+Fitness Accessories,Golf Gloves,22
+Fitness Accessories,Pet Supplies,4
+Fitness Accessories,Fishing,22
+As Seen on  TV!,Children's Clothing,3
+As Seen on  TV!,Hockey,6
+As Seen on  TV!,Men's Golf Clubs,6
+As Seen on  TV!,Golf Bags & Carts,6
+As Seen on  TV!,Golf Apparel,6
+As Seen on  TV!,Golf Balls,6
+As Seen on  TV!,Books,3
+As Seen on  TV!,Water Sports,6
+As Seen on  TV!,CDs,3
+As Seen on  TV!,Strength Training,6
+As Seen on  TV!,Golf Shoes,6
+As Seen on  TV!,Indoor/Outdoor Games,6
+As Seen on  TV!,DVDs,3
+As Seen on  TV!,Baby,3
+As Seen on  TV!,Women's Golf Clubs,6
+As Seen on  TV!,Lacrosse,6
+As Seen on  TV!,Golf Gloves,6
+As Seen on  TV!,Fishing,6
+Golf Balls,Children's Clothing,7
+Golf Balls,Hockey,22
+Golf Balls,Video Games,4
+Golf Balls,Men's Golf Clubs,6
+Golf Balls,Golf Bags & Carts,6
+Golf Balls,Golf Apparel,23
+Golf Balls,Water Sports,23
+Golf Balls,Books,7
+Golf Balls,CDs,7
+Golf Balls,Golf Shoes,22
+Golf Balls,Strength Training,6
+Golf Balls,Indoor/Outdoor Games,23
+Golf Balls,DVDs,7
+Golf Balls,Baby,7
+Golf Balls,Toys,4
+Golf Balls,Music,4
+Golf Balls,Women's Golf Clubs,6
+Golf Balls,Lacrosse,23
+Golf Balls,Health and Beauty,4
+Golf Balls,Garden,4
+Golf Balls,Golf Gloves,23
+Golf Balls,Pet Supplies,4
+Golf Balls,Fishing,23
+Strength Training,Children's Clothing,3
+Strength Training,Hockey,6
+Strength Training,Men's Golf Clubs,6
+Strength Training,Golf Bags & Carts,6
+Strength Training,Golf Apparel,6
+Strength Training,Books,3
+Strength Training,Water Sports,6
+Strength Training,CDs,3
+Strength Training,Golf Shoes,6
+Strength Training,Indoor/Outdoor Games,6
+Strength Training,DVDs,3
+Strength Training,Baby,3
+Strength Training,Women's Golf Clubs,6
+Strength Training,Lacrosse,6
+Strength Training,Golf Gloves,6
+Strength Training,Fishing,6
+Children's Clothing,Hockey,7
+Children's Clothing,Video Games,4
+Children's Clothing,Men's Golf Clubs,3
+Children's Clothing,Golf Bags & Carts,3
+Children's Clothing,Golf Apparel,7
+Children's Clothing,Books,7
+Children's Clothing,Water Sports,7
+Children's Clothing,CDs,7
+Children's Clothing,Golf Shoes,7
+Children's Clothing,Indoor/Outdoor Games,7
+Children's Clothing,DVDs,7
+Children's Clothing,Baby,7
+Children's Clothing,Toys,4
+Children's Clothing,Music,4
+Children's Clothing,Women's Golf Clubs,3
+Children's Clothing,Lacrosse,7
+Children's Clothing,Health and Beauty,4
+Children's Clothing,Garden,4
+Children's Clothing,Golf Gloves,7
+Children's Clothing,Pet Supplies,4
+Children's Clothing,Fishing,7
+Lacrosse,Hockey,22
+Lacrosse,Video Games,4
+Lacrosse,Men's Golf Clubs,6
+Lacrosse,Golf Bags & Carts,6
+Lacrosse,Golf Apparel,23
+Lacrosse,Water Sports,23
+Lacrosse,Books,7
+Lacrosse,CDs,7
+Lacrosse,Golf Shoes,22
+Lacrosse,Indoor/Outdoor Games,23
+Lacrosse,DVDs,7
+Lacrosse,Baby,7
+Lacrosse,Toys,4
+Lacrosse,Music,4
+Lacrosse,Women's Golf Clubs,6
+Lacrosse,Health and Beauty,4
+Lacrosse,Garden,4
+Lacrosse,Golf Gloves,23
+Lacrosse,Pet Supplies,4
+Lacrosse,Fishing,23
+Baby,Hockey,7
+Baby,Video Games,4
+Baby,Men's Golf Clubs,3
+Baby,Golf Bags & Carts,3
+Baby,Golf Apparel,7
+Baby,Books,7
+Baby,Water Sports,7
+Baby,CDs,7
+Baby,Golf Shoes,7
+Baby,Indoor/Outdoor Games,7
+Baby,DVDs,7
+Baby,Toys,4
+Baby,Music,4
+Baby,Women's Golf Clubs,3
+Baby,Health and Beauty,4
+Baby,Garden,4
+Baby,Golf Gloves,7
+Baby,Pet Supplies,4
+Baby,Fishing,7
+Fishing,Hockey,22
+Fishing,Video Games,4
+Fishing,Men's Golf Clubs,6
+Fishing,Golf Bags & Carts,6
+Fishing,Golf Apparel,23
+Fishing,Water Sports,23
+Fishing,Books,7
+Fishing,CDs,7
+Fishing,Golf Shoes,22
+Fishing,Indoor/Outdoor Games,23
+Fishing,DVDs,7
+Fishing,Toys,4
+Fishing,Music,4
+Fishing,Women's Golf Clubs,6
+Fishing,Health and Beauty,4
+Fishing,Garden,4
+Fishing,Golf Gloves,23
+Fishing,Pet Supplies,4
+Books,Hockey,7
+Books,Video Games,4
+Books,Men's Golf Clubs,3
+Books,Golf Bags & Carts,3
+Books,Golf Apparel,7
+Books,Water Sports,7
+Books,CDs,7
+Books,Golf Shoes,7
+Books,Indoor/Outdoor Games,7
+Books,DVDs,7
+Books,Toys,4
+Books,Music,4
+Books,Women's Golf Clubs,3
+Books,Health and Beauty,4
+Books,Garden,4
+Books,Golf Gloves,7
+Books,Pet Supplies,4
+DVDs,Hockey,7
+DVDs,Video Games,4
+DVDs,Men's Golf Clubs,3
+DVDs,Golf Bags & Carts,3
+DVDs,Golf Apparel,7
+DVDs,Water Sports,7
+DVDs,CDs,7
+DVDs,Golf Shoes,7
+DVDs,Indoor/Outdoor Games,7
+DVDs,Toys,4
+DVDs,Music,4
+DVDs,Women's Golf Clubs,3
+DVDs,Health and Beauty,4
+DVDs,Garden,4
+DVDs,Golf Gloves,7
+DVDs,Pet Supplies,4
+CDs,Hockey,7
+CDs,Video Games,4
+CDs,Men's Golf Clubs,3
+CDs,Golf Bags & Carts,3
+CDs,Golf Apparel,7
+CDs,Water Sports,7
+CDs,Golf Shoes,7
+CDs,Indoor/Outdoor Games,7
+CDs,Toys,4
+CDs,Music,4
+CDs,Women's Golf Clubs,3
+CDs,Health and Beauty,4
+CDs,Garden,4
+CDs,Golf Gloves,7
+CDs,Pet Supplies,4
+Garden,Hockey,4
+Garden,Video Games,4
+Garden,Golf Apparel,4
+Garden,Water Sports,4
+Garden,Golf Shoes,4
+Garden,Indoor/Outdoor Games,4
+Garden,Toys,4
+Garden,Music,4
+Garden,Health and Beauty,4
+Garden,Golf Gloves,4
+Garden,Pet Supplies,4
+Hockey,Video Games,4
+Hockey,Men's Golf Clubs,6
+Hockey,Golf Bags & Carts,6
+Hockey,Golf Apparel,22
+Hockey,Water Sports,22
+Hockey,Golf Shoes,22
+Hockey,Indoor/Outdoor Games,22
+Hockey,Toys,4
+Hockey,Music,4
+Hockey,Women's Golf Clubs,6
+Hockey,Health and Beauty,4
+Hockey,Golf Gloves,22
+Hockey,Pet Supplies,4
+Pet Supplies,Video Games,4
+Pet Supplies,Golf Apparel,4
+Pet Supplies,Water Sports,4
+Pet Supplies,Golf Shoes,4
+Pet Supplies,Indoor/Outdoor Games,4
+Pet Supplies,Toys,4
+Pet Supplies,Music,4
+Pet Supplies,Health and Beauty,4
+Pet Supplies,Golf Gloves,4
+Health and Beauty,Video Games,4
+Health and Beauty,Golf Apparel,4
+Health and Beauty,Water Sports,4
+Health and Beauty,Golf Shoes,4
+Health and Beauty,Indoor/Outdoor Games,4
+Health and Beauty,Toys,4
+Health and Beauty,Music,4
+Health and Beauty,Golf Gloves,4
+Music,Video Games,4
+Music,Golf Apparel,4
+Music,Water Sports,4
+Music,Golf Shoes,4
+Music,Indoor/Outdoor Games,4
+Music,Toys,4
+Music,Golf Gloves,4
+Video Games,Golf Apparel,4
+Video Games,Water Sports,4
+Video Games,Golf Shoes,4
+Video Games,Indoor/Outdoor Games,4
+Video Games,Toys,4
+Video Games,Golf Gloves,4
+Golf Gloves,Men's Golf Clubs,6
+Golf Gloves,Golf Bags & Carts,6
+Golf Gloves,Golf Apparel,23
+Golf Gloves,Water Sports,23
+Golf Gloves,Golf Shoes,22
+Golf Gloves,Indoor/Outdoor Games,23
+Golf Gloves,Toys,4
+Golf Gloves,Women's Golf Clubs,6
+Golf Bags & Carts,Men's Golf Clubs,6
+Golf Bags & Carts,Golf Apparel,6
+Golf Bags & Carts,Water Sports,6
+Golf Bags & Carts,Golf Shoes,6
+Golf Bags & Carts,Indoor/Outdoor Games,6
+Golf Bags & Carts,Women's Golf Clubs,6
+Golf Shoes,Men's Golf Clubs,6
+Golf Shoes,Golf Apparel,22
+Golf Shoes,Water Sports,22
+Golf Shoes,Indoor/Outdoor Games,22
+Golf Shoes,Toys,4
+Golf Shoes,Women's Golf Clubs,6
+Golf Apparel,Men's Golf Clubs,6
+Golf Apparel,Water Sports,23
+Golf Apparel,Indoor/Outdoor Games,23
+Golf Apparel,Toys,4
+Golf Apparel,Women's Golf Clubs,6
+Women's Golf Clubs,Men's Golf Clubs,6
+Women's Golf Clubs,Water Sports,6
+Women's Golf Clubs,Indoor/Outdoor Games,6
+Men's Golf Clubs,Water Sports,6
+Men's Golf Clubs,Indoor/Outdoor Games,6
+Toys,Water Sports,4
+Toys,Indoor/Outdoor Games,4
+Water Sports,Indoor/Outdoor Games,23
