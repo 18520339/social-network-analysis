@@ -2,3 +2,4 @@
 *.csv
 *.xlsx
 !Edges table.csv
+!Analysis.xlsx
