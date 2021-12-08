@@ -1,5 +1,5 @@
 .ipynb_checkpoints
 *.csv
 *.xlsx
-!Edges table.csv
-!Analysis.xlsx
+!EdgesTable.csv
+!ClusterAnalysis.xlsx
